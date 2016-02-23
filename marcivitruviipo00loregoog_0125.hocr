@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./marcivitruviipo00loregoog_0125.png"; bbox 0 0 3008 5162; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 382 1387 930 1492">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 382 1387 930 1492">
+     <span class='ocr_line' id='line_1_1' title="bbox 382 1387 930 1492; baseline 0.007 -4"><span class='ocrx_word' id='word_1_1' title='bbox 382 1387 930 1492; x_wconf 85' lang='lat' dir='ltr'>VITRUVII</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 162 2263 1143 2400">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 162 2263 1143 2454">
+     <span class='ocr_line' id='line_1_2' title="bbox 162 2263 1143 2400; baseline -0.003 -4"><span class='ocrx_word' id='word_1_2' title='bbox 162 2263 1143 2400; x_wconf 73' lang='lat' dir='ltr'>ARofflTEoTURA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 17 2541 32 2670">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 17 2541 32 2674">
+     <span class='ocr_line' id='line_1_3' title="bbox 17 2541 32 2670; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 17 2541 32 2670; x_wconf 79' lang='grc' dir='ltr'>Ι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 406 2759 892 2916">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 406 2755 892 2916">
+     <span class='ocr_line' id='line_1_4' title="bbox 406 2759 892 2916; baseline -0.004 -80"><span class='ocrx_word' id='word_1_4' title='bbox 406 2763 591 2916; x_wconf 63' lang='lat' dir='ltr'>LIBEI}</span> <span class='ocrx_word' id='word_1_5' title='bbox 614 2759 892 2880; x_wconf 83' lang='lat' dir='ltr'>TERTIUS.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1508 5162">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1508 5162">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1508 5162; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1508 5162; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
